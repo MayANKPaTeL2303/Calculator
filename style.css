@@ -1,0 +1,45 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+    background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
+}
+
+table{
+    margin: auto;
+}
+
+input 
+{
+    font-size: 31px;
+    background-color: rgba(194, 34, 34, 0.583);
+    color: rgba(23, 205, 144, 0.485);
+    height: 58px;
+    box-shadow: 2px 4px 4px;
+}
+
+button
+{
+    font-size: 33px;
+    background-color: rgb(4, 202, 136);
+    width: 92px;
+    height: 64px;
+    border-radius: 17px;
+    
+}
+
+.table
+{
+    display: inline-block;
+    border: 5px solid rgba(86, 212, 54,0.4332);
+    border-radius: 15px;
+    background-color: rgb(37, 35, 35);
+    padding: 20px;
+}
+
+h1{
+    font-size: 70px;
+    color: rgb(7, 88, 60);
+    font-family: 'Courier New', Courier, monospace;
+}
